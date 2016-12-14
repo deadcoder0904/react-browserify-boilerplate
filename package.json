@@ -16,7 +16,7 @@
     "react": "^15.4.0",
     "react-dom": "^15.4.0",
     "reflux": "^5.0.1",
-    "watchify": "^3.6.1",
+    "watchify": "^3.8.0",
     "whatwg-fetch": "^2.0.1"
   }
 }
